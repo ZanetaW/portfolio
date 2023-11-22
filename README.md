@@ -1,6 +1,7 @@
 # Portfolio
 ### Junior QA Engineer
 
+
 ## About me
 My passion is constant development, that is why I decided to associate my future with IT industry. My previous professional experience will definitely make my work easier and group communication as well. My goal is to achieve professional qualifications as a Software Tester and, in the future, the position of an Automation Tester. 
 
