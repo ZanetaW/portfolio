@@ -1,7 +1,22 @@
 # Portfolio
 ### Junior QA Engineer
 
-My passion is constant development, that is why I decided to associate my future with IT industry. Manual Tester fits my personality perfectly and my previous professional experience will definitely make my work easier and group communication as well. I have basic knowledge and school experience testing HTML, API, XML, JSON. My goal is to achieve professional qualifications as a Software Tester and, in the future, the position of an Automation Tester. Ready to work in a hybrid/ remote model.
+## About me
+My passion is constant development, that is why I decided to associate my future with IT industry. My previous professional experience will definitely make my work easier and group communication as well. My goal is to achieve professional qualifications as a Software Tester and, in the future, the position of an Automation Tester. 
+
+## Tools
+* Postman - Testing tool for REST API
+* Jira, Trello - Issue tracking and project management tool for developers
+* Github
+
+## Tech Skills
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Creating diagrams and decision tables
 
 
 <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaneta-woznica)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/zanetawoznica)(http<br>
