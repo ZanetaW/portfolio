@@ -19,6 +19,9 @@ My passion is constant development, that is why I decided to associate my future
 * Reporting bugs
 * Creating diagrams and decision tables
 
+## My bug reports
+Bugs reported for platforma szkoleniowa
+
 ## Courses
 * GoIT | QA Engineer, July 2023- November 2023
 
